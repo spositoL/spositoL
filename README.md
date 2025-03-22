@@ -430,7 +430,7 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 ---
 ## 💻 Projetos
 
-- [PCA1](https://github.com/spositoL/PCA1)  
+- [Air Pollution Data (PCA)](https://github.com/spositoL/PCA1)  
   Descrição breve: Este projeto utiliza técnicas de redução de dimensionalidade PCA para análise de dados de poluição no ar em Deli.
   
 ---
