@@ -428,7 +428,12 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 <br/>
 
 ---
+## 💻 Projetos
 
+- [PCA1](https://github.com/spositoL/PCA1)  
+  Descrição breve: Este projeto utiliza técnicas de redução de dimensionalidade PCA para análise de dados de poluição no ar em Deli.
+  
+---
 ## 📊 Estatísticas do GitHub
 <p>
     <img 
@@ -437,3 +442,6 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=pt-br"/>
 </p>
+---
+
+
