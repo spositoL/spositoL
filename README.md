@@ -359,6 +359,13 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" />
     <img 
         align="left" 
+        alt="Jupyter" 
+        title="Jupyter"
+        width="30px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    <img 
+        align="left" 
         alt="Visual Studio" 
         title="Visual Studio"
         width="30px" 
