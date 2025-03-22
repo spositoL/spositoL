@@ -442,6 +442,18 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
         height="200" 
         src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=pt-br"/>
 </p>
+
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+
 ---
 
 
