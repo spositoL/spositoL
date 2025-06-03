@@ -432,7 +432,7 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 
 - [Air Pollution Data (PCA)](https://github.com/spositoL/PCA1)  
   Este projeto utiliza técnicas de redução de dimensionalidade PCA para análise de dados de poluição no ar em Deli.
-- [EEducation Dataset PCA Analysis](https://github.com/spositoL/Education--PCA-)  
+- [Education Dataset PCA Analysis](https://github.com/spositoL/Education--PCA-)  
   Este projeto realiza uma Análise de Componentes Principais (PCA) em um conjunto de dados de educação para explorar padrões, reduzir a dimensionalidade e visualizar relações entre características. Abaixo está uma visão geral da análise e das principais etapas.
 - [PCA and t-SNE Project: Auto MPG](https://github.com/spositoL/An-lise-autom-tica-de-mpg)
   Este projeto utiliza o dataset auto-mpg para explorar, reduzir a dimensionalidade e identificar agrupamentos de veículos vintage, com o objetivo de apoiar decisões de negócio em uma revendedora de carros usados.
