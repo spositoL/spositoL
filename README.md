@@ -438,6 +438,8 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
   Este projeto utiliza o dataset auto-mpg para explorar, reduzir a dimensionalidade e identificar agrupamentos de veículos vintage, com o objetivo de apoiar decisões de negócio em uma revendedora de carros usados.
 - [AllLife Bank Customer Segmentation](https://github.com/spositoL/Segmenta--o-de-clientes-do-AllLife-Bank)](https://github.com/spositoL/Segmenta--o-de-clientes-do-AllLife-Bank)
   Este projeto objetiva identificar diferentes segmentos na base de clientes de cartão de crédito, considerando padrões de gastos e interações com os canais do banco, utilizando técnicas de aprendizado não supervisionado.
+- [Boston House Price Prediction](https://github.com/spositoL/Projeto-Eletivo-Aprendizado-de-M-quina)
+  Este projeto utiliza técnicas de regressão linear para prever o valor mediano de casas em Boston, com base em variáveis socioeconômicas e ambientais do bairro.
   
 ---
 ## 📊 Estatísticas do GitHub
