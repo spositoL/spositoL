@@ -462,24 +462,16 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 
 ## 📊 GitHub Stats
 
-<table>
-  <tr>
-    <td>
-      <img 
-        alt="GitHub Stats"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=pt-br"
-      />
-    </td>
-    <td>
-      <img 
-        alt="Top Langs"
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
-      />
-    </td>
-  </tr>
-</table>
+<img 
+  height="200"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=pt-br"
+/>
+
+<img 
+  height="200"
+  src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
+/>
+
 
 
 <br/>
