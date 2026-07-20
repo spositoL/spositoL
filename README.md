@@ -3,9 +3,9 @@
 
 <br/>
 
-# **Bem-vindo ao meu espaço no GitHub!**
+# **Welcome to my GitHub space!**
 
-🚀 Aqui você encontrará projetos de **`Ciência de Dados`**, aprendizado de máquina e visualização de dados, além de aplicações que transformam dados em insights poderosos. Sou apaixonado por explorar dados e resolver problemas complexos para gerar impacto.
+🚀 Here you will find projects in **`Data Science`**, machine learning, and data visualization, along with applications that transform data into powerful insights. I am passionate about exploring data and solving complex problems to generate impact.
 
 ---
 
@@ -23,7 +23,7 @@
     <a href="https://www.youtube.com/@linsptipm">
       <img
         alt="youtube views"
-        title="Vizualizações no YouTube" 
+        title="YouTube Views" 
         style="padding-right: 10px;"
         src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC8-z7gITYZ12VLVfTzCh2Pg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"
       />
@@ -31,7 +31,7 @@
     <a href="https://github.com/spositoL?tab=followers">
       <img 
         alt="followers" 
-        title="Follow me on Github" 
+        title="Follow me on GitHub" 
         style="padding-right: 10px;"
         src="https://custom-icon-badges.demolab.com/github/followers/spositoL?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github-add&label=Follow&logoColor=white"
       />
@@ -47,12 +47,12 @@
 
 ---
 
-## 💡 Sobre Mim
-Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas em dados. Meu trabalho é transformar grandes volumes de informações em insights acionáveis, aplicando técnicas de estatística, aprendizado de máquina e engenharia de dados.
+## 💡 About Me
+I am a Data Scientist focused on building scalable, data-driven solutions. My work involves transforming large volumes of information into actionable insights by applying statistical techniques, machine learning, and data engineering.
 
 ---
 
-## 🌐 Conecte-se Comigo
+## 🌐 Connect With Me
 <!-- Social icons section -->
 <p align="left">
   <a href="https://www.youtube.com/@linsptipm"><img width="20px" alt="Youtube" title="Youtube" src="https://i.imgur.com/qiXu7b2.png"/></a>&#8287;&#8287;&#8287;&#8287;&#8287;
@@ -68,7 +68,7 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 
 ---
 
-## 🧠 Data Science e Machine Learning
+## 🧠 Data Science and Machine Learning
 <p>
     <img 
         align="left" 
@@ -94,7 +94,7 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
     />
     <img 
         align="left" 
-        alt="<Matplotlib"
+        alt="Matplotlib"
         title="Matplotlib" 
         width="30px" 
         style="padding-right: 10px;"  
@@ -144,32 +144,32 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
     <img 
         align="left" 
-        alt="plotly"
-        title="plotly" 
+        alt="pytorch"
+        title="pytorch" 
         width="30px" 
         style="padding-right: 10px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" />
     <img 
         align="left" 
-        alt="plotly"
-        title="plotly" 
+        alt="streamlit"
+        title="streamlit" 
         width="30px" 
         style="padding-right: 10px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-original.svg" />
     <img 
         align="left" 
-        alt="plotly"
-        title="plotly" 
+        alt="sqlalchemy"
+        title="sqlalchemy" 
         width="30px" 
         style="padding-right: 10px;"  
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlalchemy/sqlalchemy-original.svg" />
-</p>               
+</p>                
 <br/>
 <br/>
  
- ---
+---
 
-## 🧑‍💻 Programação e Desenvolvimento
+## 🧑‍💻 Programming and Development
 <p>
     <img 
         align="left" 
@@ -205,14 +205,14 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
         alt="Julia" 
         title="Julia"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/julia/julia-original.svg" />
     <img 
         align="left" 
         alt="Java" 
         title="Java"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 </p>        
 <br/>
@@ -220,7 +220,7 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 
 ---
 
-## 🛢️ Bancos de Dados
+## 🛢️ Databases
 <p>
     <img
         align="left" 
@@ -245,8 +245,8 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
     <img
         align="left" 
-        alt="PostreSQL"
-        title="PostreSQL" 
+        alt="PostgreSQL"
+        title="PostgreSQL" 
         width="30px" 
         style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
@@ -278,63 +278,63 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 
 ---
 
-## 🧩 Tecnologias e Ferramentas
+## 🧩 Technologies and Tools
 <p>
     <img 
         align="left" 
         alt="Windows" 
         title="Windows"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
     <img 
         align="left" 
         alt="Linux" 
         title="Linux"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
     <img 
         align="left" 
         alt="Unix" 
         title="Unix"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unix/unix-original.svg" />
     <img 
         align="left" 
         alt="Apple" 
         title="Apple"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" />
     <img 
         align="left" 
         alt="Hadoop" 
         title="Hadoop"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" />
     <img 
         align="left" 
         alt="AWS" 
         title="AWS"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" />
     <img 
         align="left" 
         alt="Azure" 
         title="Azure"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" />
     <img 
         align="left" 
         alt="Google Cloud" 
         title="Google Cloud"
         width="30px" 
-        style="padding-right: 10px;"   
+        style="padding-right: 10px;"    
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/googlecloud/googlecloud-original.svg" />
     <img 
         align="left" 
@@ -392,7 +392,7 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 
 ---
 
-## 📋 Metodologias
+## 📋 Methodologies
 <p>
 <img 
     align="left" 
@@ -428,32 +428,32 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 <br/>
 
 ---
-## 💻 Projetos
+## 💻 Projects
 
 - [Air Pollution Data (PCA)](https://github.com/spositoL/PCA1)  
-  Este projeto utiliza técnicas de redução de dimensionalidade PCA para análise de dados de poluição no ar em Deli.
+  This project uses PCA dimensionality reduction techniques for air pollution data analysis in Delhi.
 - [Education Dataset PCA Analysis](https://github.com/spositoL/Education--PCA-)  
-  Este projeto realiza uma Análise de Componentes Principais (PCA) em um conjunto de dados de educação para explorar padrões, reduzir a dimensionalidade e visualizar relações entre características. Abaixo está uma visão geral da análise e das principais etapas.
+  This project performs Principal Component Analysis (PCA) on an education dataset to explore patterns, reduce dimensionality, and visualize relationships between features. Below is an overview of the analysis and key steps.
 - [PCA and t-SNE Project: Auto MPG](https://github.com/spositoL/An-lise-autom-tica-de-mpg)
-  Este projeto utiliza o dataset auto-mpg para explorar, reduzir a dimensionalidade e identificar agrupamentos de veículos vintage, com o objetivo de apoiar decisões de negócio em uma revendedora de carros usados.
-- [AllLife Bank Customer Segmentation](https://github.com/spositoL/Segmenta--o-de-clientes-do-AllLife-Bank)](https://github.com/spositoL/Segmenta--o-de-clientes-do-AllLife-Bank)
-  Este projeto objetiva identificar diferentes segmentos na base de clientes de cartão de crédito, considerando padrões de gastos e interações com os canais do banco, utilizando técnicas de aprendizado não supervisionado.
+  This project uses the auto-mpg dataset to explore, reduce dimensionality, and identify clusters of vintage vehicles, aiming to support business decisions for a used car dealership.
+- [AllLife Bank Customer Segmentation](https://github.com/spositoL/Segmenta--o-de-clientes-do-AllLife-Bank)
+  This project aims to identify different segments within a credit card customer base, considering spending patterns and interactions with bank channels, using unsupervised learning techniques.
 - [Boston House Price Prediction](https://github.com/spositoL/Projeto-Eletivo-Aprendizado-de-M-quina)
-  Este projeto utiliza técnicas de regressão linear para prever o valor mediano de casas em Boston, com base em variáveis socioeconômicas e ambientais do bairro.
+  This project uses linear regression techniques to predict the median value of homes in Boston based on neighborhood socioeconomic and environmental variables.
   
 ---
-## 📊 Estatísticas do GitHub
+## 📊 GitHub Stats
 <p>
     <img 
         align="left" 
         alt="GitHub Stats"
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=pt-br"/>
+        src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=en"/>
     <img 
         align="left" 
         alt="GitHub Stats" 
         height="100" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"/>
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=9"/>
     <br/>
     <br/>
     <br/>
@@ -461,37 +461,17 @@ Sou um Cientista de Dados focado em construir soluções escaláveis e baseadas 
 </p>
 
 ## 📊 GitHub Stats
-
-## 📊 GitHub Stats
-
-<div>
+<p align="center">
   <img 
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=pt-br"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=en"
   />
-</div>
+</p>
 
-<div>
+<p align="center">
   <img 
-    height="200"
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Tecnologias&langs_count=9"
+    align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=9&locale=en"
   />
-</div>
-
-
-
-
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-<br/>
-
+</p>
 ---
-
-
