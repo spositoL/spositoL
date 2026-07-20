@@ -443,35 +443,30 @@ I am a Data Scientist focused on building scalable, data-driven solutions. My wo
   
 ---
 ## 📊 GitHub Stats
-<p>
-    <img 
-        align="left" 
-        alt="GitHub Stats"
-        height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=en"/>
-    <img 
-        align="left" 
-        alt="GitHub Stats" 
-        height="100" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=9"/>
-    <br/>
-    <br/>
-    <br/>
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=spositoL&theme=highcontrast" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=9&locale=en" alt="Top Languages" />
+</p>
+
+---
 ## 📊 GitHub Stats
-<p align="center">
-  <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api?username=spositoL&show_icons=true&theme=highcontrast&include_all_commits=false&locale=en"
-  />
-</p>
+
+| Metric | Details |
+| :--- | :--- |
+| **Primary Focus** | Data Science & Machine Learning |
+| **Top Languages** | Python, R, C#, SQL, Node.Js |
+| **Activity Status** | Public Repos & Academic Research |
 
 <p align="center">
-  <img 
-    align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=spositoL&theme=highcontrast&layout=compact&custom_title=Technologies&langs_count=9&locale=en"
-  />
+  <a href="https://github.com/spositoL?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-View%20Repositories-1155ba?style=for-the-badge&logo=github&logoColor=white" alt="Repositories" />
+  </a>
+  <a href="https://github.com/spositoL?tab=followers">
+    <img src="https://img.shields.io/badge/GitHub-Follow%20Me-236ad3?style=for-the-badge&logo=github&logoColor=white" alt="Follow" />
+  </a>
 </p>
 ---
